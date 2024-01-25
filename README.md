@@ -50,7 +50,7 @@
 ## Ссылка на GitHub Pages
 
 Посмотреть [Сайт Interno]
-(https://psysho.github.io/FinalTaskGB/)
+(https://psysho.github.io/interno/)
 
 ## Настройка проекта
 
